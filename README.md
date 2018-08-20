@@ -18,7 +18,7 @@
 ### 使用方法
 ```javascript
 // 引入
-const cookieUtil = require("wx-cookie.js");
+const cookieUtil = require("所在目录/wx-cookie.js");
 
 // 发送请求
 cookieUtil.request(OBJECT);
