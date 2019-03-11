@@ -11,7 +11,6 @@
 |实现cookie domain限制功能 | × |
 |实现cookie path限制功能 | × |
 |实现cookie httponly 限制功能 | × |
-|实现cookie httponly 限制功能 | × |
 |提供js的cookie访问功能 | × |
 
 
